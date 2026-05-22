@@ -1,0 +1,6 @@
+{
+  "name": "Rare Rabbit Gallardo Reel Creator",
+  "description": "Create and preview cinematic, scroll-stopping 30-second Reels featuring the Rare Rabbit Gallardo Suitcase.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
